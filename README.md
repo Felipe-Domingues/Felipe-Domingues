@@ -67,7 +67,7 @@
 
 ###
 
-<h3 align="center">🤓 Studing...</h3>
+<h3 align="center">🤓 Studying...</h3>
 
 ###
 
