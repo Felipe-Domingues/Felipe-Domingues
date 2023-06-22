@@ -1,5 +1,5 @@
 
-[![](https://visitcount.itsvg.in/api?id=Felipe-Domingues&icon=6&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Felipe-Domingues&label=Profile%20Views&color=11&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/felipe-domingues-de-miranda-2b56721bb/) 
